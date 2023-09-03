@@ -6,9 +6,8 @@
 		$host = "localhost";
 		$user = "root";
 		$pass = "";
-		$database = "pac_dwes";
+		$database = "contraseña";
 
-		// Completar...
 		//Establecemos conexión con la base de datos
 		$conexion=mysqli_connect($host,$user,$pass,$database);
 		//Devolvemos la conexión establecida
